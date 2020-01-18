@@ -9,4 +9,5 @@ set showmatch
 set incsearch
 set hlsearch
 nnoremap <leader><space> :nohlsearch<CR>
+nnoremap <F5> :GundoToggle<CR>
 call pathogen#helptags()
