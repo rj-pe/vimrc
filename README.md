@@ -1,5 +1,5 @@
 # .VIM
-Tracks settings for my vim.
-
-Uses [pathogen](https://github.com/tpope/vim-pathogen)
-to manage plug-ins.
+Tracks settings for Vim.
+Notes: 
+- Use of submodules. For cloning use: `git clone --recurse-submodules`
+- Use [pathogen](https://github.com/tpope/vim-pathogen) to manage plug-ins.
