@@ -8,6 +8,7 @@ set expandtab
 set showmatch
 set incsearch
 set hlsearch
+set colorcolumn=80
 nnoremap <leader><space> :nohlsearch<CR>
 nnoremap <F5> :GundoToggle<CR>
 call pathogen#helptags()
